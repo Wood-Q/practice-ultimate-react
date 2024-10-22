@@ -1,9 +1,9 @@
 function Username() {
-    return (
-        <div className="text-sm font-semibold">
-            <p>woodq</p>
-        </div>
-    )
+  return (
+    <div className="text-sm font-semibold md:block">
+      <p>woodq</p>
+    </div>
+  );
 }
 
-export default Username
+export default Username;
